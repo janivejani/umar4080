@@ -29,6 +29,7 @@ body { background-color: #eee; }
     top: 2px;
     left: 1px; 
 }
+
 .footer-social-links a:before{
     content: "";
     display: inline-block;
